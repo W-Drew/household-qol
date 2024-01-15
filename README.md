@@ -14,6 +14,7 @@ Quality is the hardest metric to measure. It is both subjective, and can take ye
 - Warranties are not considered as a substitute for product quality since companies may offer lifetime warranties for terrible products with the intention of them being lifetime in name only & weasling their way out, or only offer 1-2 years on a product that generally lasts for 10
 - If it looks like the manufacturer took any shortcuts, fail
 - If there are a non-negligible amount of product reviews on other platforms that complain about reliability under reasonable circumstances, fail
+- They must have a company website/email outside of Amazon and a physical address
 
 ### Hardware
 If the product is made of multiple components, it must be torn down

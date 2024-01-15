@@ -47,7 +47,7 @@ A product or service's country of origin can have significant impact on a consum
 - Not be able to be held accountable by the law if they lie to designers/consumers and/or hurt consumers
 - Utilize slave or sweatshop labor
 
-Therefore, it is impossible to completely trust that the bar of relevant tenants are actually met if the origin of a product is not reputable. Unfortunately, even the most reputable of products are outsourced to nonreputable countries for manufacturing these days, so completely eliminating these products would be impractical. Instead, since country of origin does not affect metrics like repairability and ownership, a reputable origin is only a hard requirement in certain cases (noted in relevant tenants below), and this metric is purely informational otherwise. Regardless of whether the country of origin is reputable, all products must have a known country(ies) of origin set in their metadata.
+Therefore, it is impossible to completely trust that the bar of relevant tenants are actually met if the origin of a product is not reputable. Unfortunately, even the most reputable of products are outsourced to nonreputable countries for manufacturing these days, so completely eliminating these products would be impractical. Instead, since country of origin does not affect metrics like repairability and ownership, a reputable origin is only a hard requirement in certain cases (noted in relevant tenants below), and this metric is purely informational otherwise. Regardless of whether the country of origin is reputable, all products must have a known country(ies) of origin set in their metadata, as well as the founding date of the company.
 
 The following countries are considered reputable at this point in time:
 - United States
